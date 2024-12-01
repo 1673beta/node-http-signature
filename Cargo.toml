@@ -1,0 +1,10 @@
+[package]
+name = "node-http-signature"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+napi = "2.16.13"
+napi-derive = "2.16.12"
+openssl = "0.10.68"
+tokio = { version = "1.41.1", features = ["full"] }

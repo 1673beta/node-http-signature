@@ -1,2 +1,7 @@
 /node_modules
 .nyc_output
+
+
+# Added by cargo
+
+/target
